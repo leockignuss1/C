@@ -43,4 +43,4 @@ int main(){
     printf("Percentual de alunos de Exame: %.2lf% \n", perc_exame);
 
     return 0;
-}
+}   
